@@ -19,3 +19,8 @@ for key in order_shop2:
     else:
         order_shop1[key] = order_shop2[key]
 print(order_shop1)
+
+a = 3
+
+
+
